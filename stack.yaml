@@ -1,0 +1,4 @@
+resolver: lts-24.16
+packages:
+  - .
+allow-different-user: true
